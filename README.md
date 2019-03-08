@@ -1,6 +1,11 @@
 # Java-Test-Engine
 Test game engine free for you to look around (?
 
+CONTROLS:
+WASD- move
+CTRL- move faster
+SHIFT- move slower
+
 I was bored using an old notebook once. That notebook had netBeans on it, and i wanted to test my skills. This is what came out.
 There's certain things in the code that are totally nonsense, but sincerely i dont care, it was fun writing it.
 I hope you can use it in something usefull or at least it gives you ideas to inspire you to do something!
