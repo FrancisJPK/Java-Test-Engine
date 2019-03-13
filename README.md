@@ -5,6 +5,9 @@ CONTROLS:
 WASD- move
 CTRL- move faster
 SHIFT- move slower
+ESC- pause game
+C- stop camera follow
+F3- commands menu (it doesn't do anything yet)
 
 I was bored using an old notebook once. That notebook had netBeans on it, and i wanted to test my skills. This is what came out.
 There's certain things in the code that are totally nonsense, but sincerely i dont care, it was fun writing it.
