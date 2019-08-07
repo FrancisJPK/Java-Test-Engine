@@ -1,5 +1,5 @@
-# Java-Test-Engine
-Test game engine free for you to look around (?
+# Java-Game-Attempt
+Game attempt free for you to look around (?
 
 CONTROLS:
 WASD- move
@@ -22,4 +22,4 @@ i don't remember why i did so many unnecessary checkings but it is doing the job
 #i'm going to add "engine stats" in the near future, for example: player pos; amount of loaded objects; etc.
 
 tags:
-Game Engine, Engine, WASD, MENU, Documented, SPANISH, ENGLISH, FPS
+Game Engine, Engine, WASD, MENU, Documented, SPANISH, ENGLISH, FPS, Java, Game
