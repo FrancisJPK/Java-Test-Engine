@@ -1,6 +1,9 @@
 # Java-Game-Attempt
 Game attempt free for you to look around (?
 
+You can download the jar files to see how i progressed through the development of this project.<br>
+Or, if you don't trust me, you can compile it yourself using the source code!<br>
+***
 CONTROLS:
 WASD- move
 CTRL- move faster
@@ -17,7 +20,7 @@ Notes:
 #collision detection is a thing to fix in the engine.
 i don't remember why i did so many unnecessary checkings but it is doing the job
 
-#maps are generated, adding a map loader would be fun
+#maps are generated. Adding a map loader would be fun
 
 #i'm going to add "engine stats" in the near future, for example: player pos; amount of loaded objects; etc.
 
